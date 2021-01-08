@@ -6,6 +6,7 @@ bilibili-helper-pro
 [![GitHub stars](https://img.shields.io/github/stars/gitldy1013/bilibili-helper-pro?style=flat-square)](https://github.com/gitldy1013/bilibili-helper-pro/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/gitldy1013/bilibili-helper-pro?style=flat-square)](https://github.com/gitldy1013/bilibili-helper-pro/network)
 [![GitHub issues](https://img.shields.io/github/issues/gitldy1013/bilibili-helper-pro?style=flat-square)](https://github.com/gitldy1013/bilibili-helper-pro/issues)
+
 [![GitHub license](https://img.shields.io/github/license/gitldy1013/bilibili-helper-pro?style=flat-square)](https://github.com/gitldy1013/bilibili-helper-pro/blob/main/LICENSE) 
 [![GitHub All Releases](https://img.shields.io/github/downloads/gitldy1013/bilibili-helper-pro/total?style=flat-square)](https://github.com/gitldy1013/bilibili-helper-pro/releases)
 [![GitHub contributors](https://img.shields.io/github/contributors/gitldy1013/bilibili-helper-pro?style=flat-square)](https://github.com/gitldy1013/bilibili-helper-pro/graphs/contributors)
@@ -32,6 +33,7 @@ bilibili-helper-pro
 * [x] 投币支持下次一定啦，可自定义每日投币数量。*【如果检测到你已经投过币了，则不会投币】*
 * [x] 大会员月底使用快到期的 B币券，给自己充电，一点也不会浪费哦，默认开启。*【可配置】*
 * [x] 大会员月初 1 号自动领取每月 5 张 B币券 和福利。
+
 * [x] 每日哔哩哔哩直播自动签到，领取签到奖励。*【直播你可以不看，但是奖励咱们一定要领】*
 * [x] 通过server酱推送执行结果到微信。
 * [x] Linux用户支持自定义配置了。
